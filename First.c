@@ -5,6 +5,7 @@ int add(int a, int b) {
     return sum;
 }
 
+// Multiply operations
 int multiply(int a, int b) {
     int product = a * b;
     return product;
