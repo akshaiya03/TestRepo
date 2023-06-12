@@ -10,6 +10,7 @@ int multiply(int a, int b) {
     return product;
 }
 
+// A Sample program for add and multiply
 int main() {
     int x = 5;
     int y = 10;
@@ -20,5 +21,6 @@ int main() {
     result = multiply(x, y);
     printf("Product2: %d\n", result);
     
+
     return 0;
 }
